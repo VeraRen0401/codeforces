@@ -1,6 +1,6 @@
 # construct a segment tree
 # update a value
-# query a sum
+# query a summmmmmmm
 import math
 
 def calMid(ss, se):
